@@ -1,0 +1,15 @@
+.title{
+	font-family: "Times New Roman", Georgia, arial, sans-serif;
+	font-size: 400%;
+	color: #fff;
+	background-color: #F37130;
+}
+
+.form{
+	text-align: center;
+	margin-left: 25%;
+}
+
+.buttons{
+	text-align: center;
+}
